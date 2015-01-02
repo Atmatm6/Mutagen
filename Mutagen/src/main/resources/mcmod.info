@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Mutate",
+  "name": "Mutagen",
+  "description": "Mutation at his best.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Atmatm6"],
+  "credits": "Not really anyone...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
