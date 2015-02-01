@@ -1,14 +1,14 @@
 [
 {
-  "modid": "Mutate",
+  "modid": "MutateCore",
   "name": "Mutagen",
-  "description": "Mutation at his best.",
+  "description": "Mutation at it's best.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Atmatm6"],
-  "credits": "Not really anyone...",
+  "credits": "Rival Rebels rod icons",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
