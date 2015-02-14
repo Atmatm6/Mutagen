@@ -13,7 +13,7 @@ public class WoahButts {
         BootyReference.morphInstalled = Loader.isModLoaded("Morph");
         if(morphInstalled.equals(true))
         {
-
+            ;
         }
     }
 }

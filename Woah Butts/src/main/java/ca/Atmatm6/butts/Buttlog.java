@@ -7,5 +7,6 @@ import org.apache.logging.log4j.Logger;
  * Created by Austin on 2015-02-09.
  */
 public abstract class Buttlog implements Logger {
-    public static Logger buttlog = LogManager.getLogger(BootyReference.bootname + BootyReference.bootver);
+    public static Logger logger = LogManager.getLogger(BootyReference.bootname + "");
+
 }
